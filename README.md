@@ -39,7 +39,6 @@
     * Each row of the matrix represents the similarity value between a side effect and all side effects in the benchmark dataset. 
     * The range of values is from 0 to 1.
 
-## Model
 
 
 
